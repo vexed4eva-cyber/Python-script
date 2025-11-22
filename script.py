@@ -18,5 +18,6 @@ if type1.lower in ["add","a","addtion"]:
 	print(num1 + num2)
 	pause()
 if type1.lower in ["subtraction","s","minus"]:
-	print(num1 - num2)
+	speed =(num1 - num2)
+	print(speed)
 	pause()
